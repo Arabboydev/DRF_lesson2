@@ -1,0 +1,18 @@
+Tunellarda Harakatlanish Qoidalari
+Tunellarda harakatlanish xavfsizligini ta'minlash uchun bir qator qoidalar amal qiladi
+
+Tezlik cheklovi Tunellarda belgilangan tezlik cheklovlariga rioya qilish kerak.
+Masofa saqlash Mashinalar orasidagi xavfsiz masofani saqlash lozim.
+Chiroqlarni yoqish Tunellarda har doim faralarni yoqib harakatlanish kerak.
+Qoidalarni buzmaslik Yo'l harakati qoidalarini buzmaslik, masalan, cheklangan joylarda to'xtamaslik va ortiqcha signal bermaslik.
+Favqulodda vaziyatlar Favqulodda vaziyatlarda qoidalar va belgilangan qochish yo'llariga rioya qilish.
+Tunel Harakati uchun Texnologiyalar
+Tunel yo'l harakatini boshqarish va xavfsizlikni ta'minlash uchun quyidagi texnologiyalar qo'llaniladi
+
+Ventilyatsiya tizimlari Tunellarda toza havoni ta'minlash va zararli gazlarni chiqarish.
+Yoritish tizimlari Yaxshi yoritish tunel ichida harakatlanishni xavfsiz qiladi.
+Video kuzatuv tizimlari Tunellardagi harakatni monitoring qilish va favqulodda vaziyatlarda tezkor choralar ko'rish.
+Trafik boshqaruv tizimlari Harakatni tartibga solish va yo'l harakatini optimal holatga keltirish.
+Tunel Harakati Statistikasi
+Tunellarda harakatlanishning statistikasi va tahlillari ko'pincha yo'l harakati xavfsizligini oshirish uchun ishlatiladi.
+Bu ma'lumotlar tunellarni loyihalash va modernizatsiya qilishda hamda xavfsizlik choralarini kuchaytirishda muhim rol o'ynaydi.
